@@ -1,3 +1,3 @@
-# pleroma-delete-all-posts
+# Pleroma-delete-all-posts
 
-A script that deletes all posts and reblogs from a pleroma account.
+A CLI program written in python that deletes all posted status and unreblogs all reblogs, leaving the user's timeline completely empty, a feature that is missing from Pleroma.
